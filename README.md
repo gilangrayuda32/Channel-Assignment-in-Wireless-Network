@@ -13,3 +13,5 @@ If you use this program in your work, please kindly cite my work:
 For more discussion and collaboration, you can correspond with me at gil@snut.ac.kr
 
 Thank you.
+
+![1693201292](https://github.com/gilangrayuda32/Channel-Assignment-in-Wireless-Network/assets/113423105/5e640900-66f8-4000-b60e-28d23a9a5866)
