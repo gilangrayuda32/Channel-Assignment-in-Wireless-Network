@@ -15,3 +15,5 @@ For more discussion and collaboration, you can correspond with me at gil@snut.ac
 Thank you.
 
 ![1693201292](https://github.com/gilangrayuda32/Channel-Assignment-in-Wireless-Network/assets/113423105/5e640900-66f8-4000-b60e-28d23a9a5866)
+![3](https://github.com/gilangrayuda32/Channel-Assignment-in-Wireless-Network/assets/113423105/e450430d-37d3-42ee-a522-0727aae18819)
+![2](https://github.com/gilangrayuda32/Channel-Assignment-in-Wireless-Network/assets/113423105/91ea944a-35cc-410e-aa27-99eabae854c7)
